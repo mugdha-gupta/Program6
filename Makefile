@@ -11,9 +11,9 @@ LDFLAGS = -L/scratch/perkins/lib
 LDLIBS = -lcdk -lcurses 
 
 
-EXECFILE = cdkexample
+EXECFILE = program6
 
-OBJS = example1.o
+OBJS = program6.o
 
 
 all: $(EXECFILE)
