@@ -1,8 +1,8 @@
-# Program
-# Mugdha Gupta
-# mxg167030@utdallas.edu
-# CS 3377.002
-# README file
+Program 6
+Mugdha Gupta
+mxg167030@utdallas.edu
+CS 3377.002
+README file
 
 https://github.com/mugdha-gupta/Program6.git
 
