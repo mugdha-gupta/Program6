@@ -1,4 +1,4 @@
-# Program6
+# Program
 # Mugdha Gupta
 # mxg167030@utdallas.edu
 # CS 3377.002
